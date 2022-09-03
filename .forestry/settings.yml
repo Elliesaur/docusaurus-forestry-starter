@@ -18,7 +18,7 @@ sections:
   match: "*.md"
 - type: document
   path: sidebars.json
-  label: Sidebar
+  label: Test
 upload_dir: static/img
 public_path: "/img"
 front_matter_path: ''
